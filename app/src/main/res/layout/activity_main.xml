@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main_background"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".MainActivity">
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_margin="@dimen/layout_margin"
+        android:gravity="center">
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/square11"
+            android:layout_width="@dimen/square_dim"
+            android:layout_height="@dimen/square_dim"
+            android:layout_marginHorizontal="@dimen/square_margin"
+            android:contentDescription="@string/image_button_description"
+            android:src="@drawable/cover"
+            tools:ignore="DuplicateSpeakableTextCheck" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/square12"
+            android:layout_width="@dimen/square_dim"
+            android:layout_height="@dimen/square_dim"
+            android:layout_marginHorizontal="@dimen/square_margin"
+            android:contentDescription="@string/image_button_description"
+            android:src="@drawable/cover" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/square13"
+            android:layout_width="@dimen/square_dim"
+            android:layout_height="@dimen/square_dim"
+            android:layout_marginHorizontal="@dimen/square_margin"
+            android:contentDescription="@string/image_button_description"
+            android:src="@drawable/cover" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/square14"
+            android:layout_width="@dimen/square_dim"
+            android:layout_height="@dimen/square_dim"
+            android:layout_marginHorizontal="@dimen/square_margin"
+            android:contentDescription="@string/image_button_description"
+            android:src="@drawable/cover" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/square15"
+            android:layout_width="@dimen/square_dim"
+            android:layout_height="@dimen/square_dim"
+            android:layout_marginHorizontal="@dimen/square_margin"
+            android:contentDescription="@string/image_button_description"
+            android:src="@drawable/cover" />
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_margin="@dimen/layout_margin"
+        android:gravity="center">
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/square21"
+            android:layout_width="@dimen/square_dim"
+            android:layout_height="@dimen/square_dim"
+            android:layout_marginHorizontal="@dimen/square_margin"
+            android:contentDescription="@string/image_button_description"
+            android:src="@drawable/cover"
+            tools:ignore="DuplicateSpeakableTextCheck" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/square22"
+            android:layout_width="@dimen/square_dim"
+            android:layout_height="@dimen/square_dim"
+            android:layout_marginHorizontal="@dimen/square_margin"
+            android:contentDescription="@string/image_button_description"
+            android:src="@drawable/cover" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/square23"
+            android:layout_width="@dimen/square_dim"
+            android:layout_height="@dimen/square_dim"
+            android:layout_marginHorizontal="@dimen/square_margin"
+            android:contentDescription="@string/image_button_description"
+            android:src="@drawable/cover" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/square24"
+            android:layout_width="@dimen/square_dim"
+            android:layout_height="@dimen/square_dim"
+            android:layout_marginHorizontal="@dimen/square_margin"
+            android:contentDescription="@string/image_button_description"
+            android:src="@drawable/cover" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/square25"
+            android:layout_width="@dimen/square_dim"
+            android:layout_height="@dimen/square_dim"
+            android:layout_marginHorizontal="@dimen/square_margin"
+            android:contentDescription="@string/image_button_description"
+            android:src="@drawable/cover" />
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_margin="@dimen/layout_margin"
+        android:gravity="center">
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/square31"
+            android:layout_width="@dimen/square_dim"
+            android:layout_height="@dimen/square_dim"
+            android:layout_marginHorizontal="@dimen/square_margin"
+            android:contentDescription="@string/image_button_description"
+            android:src="@drawable/cover"
+            tools:ignore="DuplicateSpeakableTextCheck" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/square32"
+            android:layout_width="@dimen/square_dim"
+            android:layout_height="@dimen/square_dim"
+            android:layout_marginHorizontal="@dimen/square_margin"
+            android:contentDescription="@string/image_button_description"
+            android:src="@drawable/cover" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/square33"
+            android:layout_width="@dimen/square_dim"
+            android:layout_height="@dimen/square_dim"
+            android:layout_marginHorizontal="@dimen/square_margin"
+            android:contentDescription="@string/image_button_description"
+            android:src="@drawable/cover" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/square34"
+            android:layout_width="@dimen/square_dim"
+            android:layout_height="@dimen/square_dim"
+            android:layout_marginHorizontal="@dimen/square_margin"
+            android:contentDescription="@string/image_button_description"
+            android:src="@drawable/cover" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/square35"
+            android:layout_width="@dimen/square_dim"
+            android:layout_height="@dimen/square_dim"
+            android:layout_marginHorizontal="@dimen/square_margin"
+            android:contentDescription="@string/image_button_description"
+            android:src="@drawable/cover" />
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_margin="@dimen/layout_margin"
+        android:gravity="center">
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/square41"
+            android:layout_width="@dimen/square_dim"
+            android:layout_height="@dimen/square_dim"
+            android:layout_marginHorizontal="@dimen/square_margin"
+            android:contentDescription="@string/image_button_description"
+            android:src="@drawable/cover"
+            tools:ignore="DuplicateSpeakableTextCheck" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/square42"
+            android:layout_width="@dimen/square_dim"
+            android:layout_height="@dimen/square_dim"
+            android:layout_marginHorizontal="@dimen/square_margin"
+            android:contentDescription="@string/image_button_description"
+            android:src="@drawable/cover" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/square43"
+            android:layout_width="@dimen/square_dim"
+            android:layout_height="@dimen/square_dim"
+            android:layout_marginHorizontal="@dimen/square_margin"
+            android:contentDescription="@string/image_button_description"
+            android:src="@drawable/cover" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/square44"
+            android:layout_width="@dimen/square_dim"
+            android:layout_height="@dimen/square_dim"
+            android:layout_marginHorizontal="@dimen/square_margin"
+            android:contentDescription="@string/image_button_description"
+            android:src="@drawable/cover" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/square45"
+            android:layout_width="@dimen/square_dim"
+            android:layout_height="@dimen/square_dim"
+            android:layout_marginHorizontal="@dimen/square_margin"
+            android:contentDescription="@string/image_button_description"
+            android:src="@drawable/cover" />
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_margin="@dimen/layout_margin"
+        android:gravity="center">
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/square51"
+            android:layout_width="@dimen/square_dim"
+            android:layout_height="@dimen/square_dim"
+            android:layout_marginHorizontal="@dimen/square_margin"
+            android:contentDescription="@string/image_button_description"
+            android:src="@drawable/cover"
+            tools:ignore="DuplicateSpeakableTextCheck" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/square52"
+            android:layout_width="@dimen/square_dim"
+            android:layout_height="@dimen/square_dim"
+            android:layout_marginHorizontal="@dimen/square_margin"
+            android:contentDescription="@string/image_button_description"
+            android:src="@drawable/cover" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/square53"
+            android:layout_width="@dimen/square_dim"
+            android:layout_height="@dimen/square_dim"
+            android:layout_marginHorizontal="@dimen/square_margin"
+            android:contentDescription="@string/image_button_description"
+            android:src="@drawable/cover" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/square54"
+            android:layout_width="@dimen/square_dim"
+            android:layout_height="@dimen/square_dim"
+            android:layout_marginHorizontal="@dimen/square_margin"
+            android:contentDescription="@string/image_button_description"
+            android:src="@drawable/cover" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/square55"
+            android:layout_width="@dimen/square_dim"
+            android:layout_height="@dimen/square_dim"
+            android:layout_marginHorizontal="@dimen/square_margin"
+            android:contentDescription="@string/image_button_description"
+            android:src="@drawable/cover" />
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+</androidx.appcompat.widget.LinearLayoutCompat>

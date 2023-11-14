@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="square_dim">60dp</dimen>
+    <dimen name="square_margin">1dp</dimen>
+    <dimen name="layout_margin">1dp</dimen>
+
+</resources>
